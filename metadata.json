@@ -1,0 +1,6 @@
+{
+  "name": "ScholarPlan — Smart Study Planner",
+  "description": "A full-stack student study planner for managing subjects, daily study schedules, assignment deadlines, Pomodoro focus sessions, notes, and academic progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
